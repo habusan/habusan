@@ -1,24 +1,12 @@
-# README
+# Getting Started!
+```
+git clone git@github.com:habusan/habusan.git
+bundle install
+bundle exec rake db:create
+bundle exec rake db:migrate
+bundle exec rails server
+```
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Brach
+YourName/data/content
+ex. DaiAoki/20171118/login
