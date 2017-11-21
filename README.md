@@ -10,3 +10,5 @@ bundle exec rails server
 # Brach
 YourName/data/content
 ex. DaiAoki/20171118/login
+
+# hanusan
